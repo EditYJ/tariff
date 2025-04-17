@@ -1,0 +1,35 @@
+{
+  "name": "tariff",
+  "version": "1.0.0",
+  "description": "🔥 THE GREATEST JAVASCRIPT PACKAGE TO MAKE IMPORTS GREAT AGAIN! 🇺🇸 100% AMERICAN-MADE CODE, NO FOREIGN DEPENDENCIES!",
+  "main": "src/maga.js",
+  "scripts": {
+    "test": "echo 'TREMENDOUS TESTS PASSED! HUGE SUCCESS!' && exit 0",
+    "deploy": "echo 'WE'RE DEPLOYING TO THE CLOUD, THE BEST CLOUD, BELIEVE ME!'"
+  },
+  "keywords": [
+    "MAGA",
+    "PATRIOTIC",
+    "IMPORTS",
+    "TRUMP-STYLE",
+    "WINNING"
+  ],
+  "author": "Donald J. Trump",
+  "license": "MAGA (Make America Great Again License)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EditYJ/tariff"
+  },
+  "homepage": "https://github.com/EditYJ/tariff",
+  "files": [
+    "src/*",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=7.0.0"
+  },
+  "os": [
+    "!linux"
+  ]
+}
